@@ -9,6 +9,6 @@ Os dados apresentados neste notebook dizem respeito às informações referentes
 
 Fonte dos dados: https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households
 
-# FERRAMENTAS
+# FERRAMENTAS ⚙
 
 As bibliotecas usadas para fazer as analises foram majoritariamente `seaborn` e `matplotlib` para a construção de graficos 
